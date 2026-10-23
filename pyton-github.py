@@ -12,7 +12,7 @@ while True:
     if choice == "1":
         task = input("Nouvelle tâche : ")
         tasks.append(task)
-        print("Tâche ajoutée.")
+        print("Felicitation ,vous avez ajouter la tache.")
 
     elif choice == "2":
         if len(tasks) == 0:
